@@ -1,0 +1,31 @@
+﻿$name=nitd
+$version=2
+$default=002
+$fixed_volume=197
+$main
+
+#002 002
+#033 021
+#034 022
+#035 023
+#036 024
+#037 025
+#038 026
+#039 027
+#040 028
+#041 029
+#042 02A
+#043 02B
+#044 02C
+#045 02D
+#046 02E
+#047 02F
+#048 030
+#049 031
+#127 07F
+
+  [Source]
+  Nightmare in the Dark
+
+// List Contribution by shunninghuang
+$end

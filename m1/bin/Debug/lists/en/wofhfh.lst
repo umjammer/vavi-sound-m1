@@ -1,0 +1,154 @@
+$name=wof
+$version=2
+$default=123
+$fixed_volume=317
+$main
+
+#000 Credit Inserted <time="3.4">
+#001 Opening Demo <time="17.9">
+#002 Round 1 A <time="1:01">
+#003 Round 1 B <time="54">
+#004 Round 2 <time="54">
+#005 Round 3 <time="48">
+#006 Round 4 <time="3:30">
+#007 Round 5 A <time="1:30">
+#008 Round 5 B <time="56">
+#009 Round 6 <time="1:30">
+#010 Round 7 <time="1:40">
+#011 Round 8A <time="1:25">
+#012 Round 8B <time="1:12">
+#013 Round 9 <time="1:25">
+#014 BGM 014 <time="10">
+#015 BGM 015 <time="6.3">
+#016 BGM 016 <time="10">
+#017 BGM 017 <time="9.7">
+#018 BGM 018 <time="1:14">
+#019 Boss <time="1:05">
+#020 BGM 020 <time="10">
+#021 Boss (Lu Bu) <time="30">
+#022 BGM 022 <time="7">
+#023 BGM 023 <time="5.5">
+#024 BGM 024 <time="20">
+#025 BGM 025 <time="7">
+#026 Player Select <time="23">
+#027 BGM 027 <time="10">
+#028 BGM 028 <time="6.5">
+#032 [SFX] <time="3">
+#033 [SFX] <time="3">
+#034 [SFX]
+#035 [SFX]
+#036 [SFX]
+#037 [SFX]
+#038 [SFX]
+#039 [SFX] <time="5">
+#040 [SFX]
+#041 [SFX] <time="8">
+#042 [SFX]
+#043 [SFX]
+#044 [SFX] Go
+#045 [SFX] <time="3">
+#046 [SFX]
+#047 [SFX]
+#048 [SFX]
+#049 [SFX]
+#050 [SFX]
+#051 [SFX]
+#052 [SFX]
+#053 [SFX]
+#054 [SFX]
+#055 [SFX]
+#056 [SFX]
+#057 [SFX]
+#058 [SFX]
+#059 [SFX]
+#060 [SFX]
+#061 [SFX]
+#062 [SFX] <time="5">
+#063 [SFX] <time="5">
+#064 [SFX] <time="3">
+#065 [SFX]
+#066 [SFX]
+#067 [SFX]
+#068 [SFX]
+#069 [SFX]
+#070 [Voice] Deyaah! (Cody)
+#071 [Voice] Eiyaah! (Guy)
+#072 [SFX]
+#073 [Voice] Uraah! (Haggar)
+#074 [Voice] Deyaah! (Haggar)
+#075 [Voice] Yaah! (Haggar)
+#076 [Voice] Tehryah! (Haggar)
+#077 [Voice] Haah! (Guy)
+#078 [SFX]
+#079 [SFX]
+#080 [SFX]
+#081 [SFX]
+#082 [SFX]
+#083 [SFX]
+#084 [Voice] Deyaah! (Cody)
+#085 [Voice] Haah! (Cody)
+#086 [Voice] Uwaahoh! (Haggar)
+#087 [SFX]
+#088 [SFX]
+#089 [Voice] Gyuoh... (Haggar)
+#090 [Voice] Ahhh... (Guy)
+#091 [Voice] Uoohh... (Cody)
+#092 [Voice] Haaaahhhh! <time="2.3">
+#093 [SFX]
+#094 [Voice] Ahhhahahaha... (Damnd) <time="2">
+#095 [Voice] Uhwahh... (Haggar)
+#096 [Voice] Hah! (Andore, Bill Bull, Wong Who)
+#097 [Voice] ??? (unused)
+#098 [Voice] Kyaahah... (Poison, Roxy)
+#099 [Voice] Uohh...
+#100 [Voice] Uhwaahh...
+#101 [SFX]
+#102 [Voice] Oh,aahhhhah... (Jessica)
+#103 [Voice] Huhahahaha... (Belger)
+#104 [Voice] I'm taking the field! Guan Yu.
+#105 [Voice] I'm taking the field! Zhang Fei.
+#106 [Voice] I'm taking the field! Zhao Yun.
+#107 [Voice] You have really defeated the Huang Jin.
+#108 [Voice] I'm taking the field! Liu Bei.
+#109 [Voice] I have killed the general Zhang Liao.
+#110 [Voice] I have killed the general Zhang Jiao.
+#111 [Voice] I have killed the general Zhiang Ji.
+#112 [Voice] I have killed the general Li Dian.
+#113 [Voice] I have killed the general Xu Huang.
+#114 [SFX]
+#115 [SFX]
+#156 [SFX]
+#157 [SFX]
+#158 [SFX]
+#159 [SFX]
+#160 [SFX]
+#161 [SFX] <time="4">
+#162 [SFX]
+#163 [SFX]
+#164 [SFX] <time="3">
+#165 [SFX] <time="3">
+#166 [SFX]
+#167 [SFX]
+#168 [SFX]
+#169 [SFX]
+#170 [SFX]
+#171 [SFX]
+#172 [SFX]
+#173 [SFX]
+#174 [SFX]
+#175 [SFX]
+#176 [SFX]
+#177 [SFX]
+#178 [SFX]
+#179 [SFX]
+#180 [SFX]
+#181 [SFX]
+#182 [SFX]
+#183 [SFX]
+
+  [Source]
+  Huo Feng Huang (Chinese bootleg of Sangokushi II) 921005 - based on Asia version -bootleg
+  Pony Canyon / Scitron  PCCB-00133  Aug 20, 1993
+
+// List Contribution by shunninghuang
+$end
