@@ -15,4 +15,6 @@ aka M1 arcade
 
 ## References
 
+ * [original](https://www.codeproject.com/Tips/646359/M1-NET-Decrypt-Arcade-Audio)
+
 ## TODO
