@@ -22,6 +22,7 @@
         <configuration>
           <argLine>
             -Djava.util.logging.config.file=${project.build.testOutputDirectory}/logging.properties
+            -Dswing.defaultlaf=com.formdev.flatlaf.FlatLightLaf
           </argLine>
           <trimStackTrace>false</trimStackTrace>
         </configuration>
@@ -59,6 +60,25 @@
       <groupId>com.github.umjammer</groupId> <!-- moe.yo3explorer / com.github.umjammer -->
       <artifactId>dotnet4j</artifactId>
       <version>1.2.5</version>
+    </dependency>
+
+    <dependency>
+      <groupId>vavi</groupId> <!-- com.github.umjammer / vavi -->
+      <artifactId>vavi-apps-jwinzip</artifactId>
+      <version>1.0.4-SNAPSHOT</version>
+    </dependency>
+
+    <dependency>
+      <groupId>vavi</groupId> <!-- vavi / com.github.umjammer -->
+      <artifactId>vavi-util-screenscraping</artifactId>
+      <version>1.0.15-SNAPSHOT</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.formdev</groupId>
+      <artifactId>flatlaf</artifactId>
+      <version>3.5</version>
+      <scope>runtime</scope>
     </dependency>
 
     <dependency>
